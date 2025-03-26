@@ -9,7 +9,7 @@
 
 
 ## 📫 Connect with Me  
-🔗 [LinkedIn] | 📧 Email: amoussahamza28@gmail.com.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/hamza-amoussa-4a5326255/) | 📧 Email: amoussahamza28@gmail.com.com  
 
 ---
 
