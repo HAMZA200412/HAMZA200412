@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me  
 - 🎓 **Pursuing a degree in AI & Data Science** (Graduating in 2026)  
 - 🤖 **Projects:** Speech Command Recognition, Image Captioning, Web Scraping, and more  
-- 📊 **Experience with Data Pipelines & BI:** SSIS, SQL Server, Power BI  
+- 📊 **Experience with Data Pipelines & BI:** SSIS, SSAS, SQL Server, Power BI  
 
 
 ## 📫 Connect with Me  
