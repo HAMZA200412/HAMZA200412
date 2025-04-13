@@ -1,5 +1,5 @@
 # Hi, I'm Hamza Amoussa! 👋  
-🎓 **AI & Data Science Student** | ENSA de Tétouan  
+🎓 **AI & Data Science Student** | ENSA Tétouan  
 🚀 **Aspiring AI Engineer** | Passionate about Machine Learning & Deep Learning  
 
 ## 👨‍💻 About Me  
